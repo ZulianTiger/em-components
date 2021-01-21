@@ -14,7 +14,7 @@ $ npm install @arminsarajlic/em-components
 ## Usage
 
 ```js
-const unspace = require("@bamblehorse/tiny");
+const unspace = require("@arminsarajlic/em-components");
 
 unspace("So much space!");
 //=> "Somuchspace!"
