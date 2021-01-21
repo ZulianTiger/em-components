@@ -1,6 +1,6 @@
 {
     "name": "@arminsarajlic/em-components",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Various functions and configs shared between different EM projects",
     "license": "MIT",
     "repository": "ZulianTiger/em-components",
